@@ -1,0 +1,238 @@
+:root{
+    --orange: #FA4A0C;
+    --gray: #737373 ;
+}
+.navigation-list{
+   
+    align-items: center;
+    list-style-type: none;
+    display: flex;
+}
+.nav-site{
+     height: 619px;
+     text-align: center;
+     background-image: url(/img/51c51a7e2807a7d0fadb9f1c2a8b1ef6.jfif);
+     background-position: center;
+}
+.nav-site li{
+    align-items: baseline;
+}
+.navigation{
+    font-size: 16px;
+    color: black;
+    text-decoration: none;
+}
+.link-home{
+    color: var(--orange);
+    margin-left: 464px;
+}
+.navigation{
+    
+    margin-right: 115px;
+}
+.container{
+    max-width: 1210px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.registration{
+    margin-top: 61px;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    display: flex;
+}
+.registration li h3{
+    font-size: 24px;
+}
+.registration li p{
+
+    font-size: 24px;
+}
+.registration li h2{
+    width: 561px;
+    font-size: 40px;
+}
+.block{
+    margin-left: 285px;
+    max-width: 568px;
+    max-height: 280px;
+}
+.img-registration{
+    width: 250px;
+    height: 507px;
+}
+.app-works{
+    font-size: 44px;
+    text-align: center;
+    font-family: Poppins;
+}
+.block{
+    font-family: Montserrat ;
+}
+.nav-site{
+    display: block;
+    height: 619px;
+}
+.navigation{
+    font-family: Montserrat
+    ;
+}
+.text{
+    font-family: Montserrat ;
+    color: white;
+    font-size: 24px;
+}
+.title{
+    font-family: Poppins;
+    color: white;
+    font-size: 58px;
+    width: 799px;
+    margin-top: 30px;
+    margin: 0 auto;
+   
+}
+button{
+    font-family: Montserrat;
+    color: white;
+    font-size: 24px;
+}
+ div{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+ }
+ ul{
+    list-style-type: none;
+ }
+.resturant-app{
+    padding-top: 64px ;
+}
+.Delivery{
+    margin-top: 64px;
+    margin-right: 66px;
+    border-radius: 30px;
+    padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-color: var(--orange);
+    border: solid var(--orange);
+}
+.Menu{
+    margin-top: 64px;
+    border-radius: 30px;
+    padding-left: 85px;
+    padding-right: 85px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    background-color: transparent;
+    border: solid white ;
+}
+h3{   
+    color: var(--orange);
+}
+.create-account:nth-child(3){
+    color: var(--gray);
+}
+.food{
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 105px;
+}
+.different-dishes{
+    max-width: 568px;
+    max-height: 280px;
+    margin-right: 285px;
+    font-family: Montserrat ;
+}
+.food li h3{
+    font-size: 24px;
+}
+.food li h2{
+    font-size: 40px;
+    width: 480px;
+    
+}
+.buy-meals{
+    width: 462px;
+    font-size: 24px;
+    color: var(--gray);
+}
+#nav-site{
+    height: 510px;
+    background-image: url(/img/62e47d4ba6308cc4a1c5c2d5a9ad2351.jfif);
+    background-position: center;
+    text-align: center;
+    font-family:  Montserrat ;
+    display: block;
+    margin-top: 190px;
+}
+#nav-site li h1{
+    font-size: 40px;
+    width: 235px;
+    color: white;
+    padding-top: 150px;
+    padding-bottom: 40px;
+}
+#nav-site li p{
+    font-size: 24px;
+    width: 840px;
+    color: white;
+}
+.Playstore{
+    width: 142px;
+    height: 64px;
+    border-radius: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 31px;
+    padding-right: 31px;
+    margin-right: 15px;
+    color: white;
+    background-color: var(--orange);
+    border: solid var(--orange);
+    font-size: 16px;
+}
+.Appstore{
+    width: 173px;
+    height: 60px;
+    border-radius: 10px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    padding-left: 45px;
+    padding-right: 45px;
+    border: solid white;
+    background-color: transparent;
+    color: white;
+    font-size: 15px;
+}
+#nav-site li h1{
+    margin: 0 auto;
+}
+#nav-site li p{
+    margin: 0 auto;
+}
+.buttons{
+    align-items: center;
+    margin-top: 70px;
+}
+.nav-footer{
+    width: 1210px;
+    height: 133px;
+    display: flex;
+    align-items: center;
+}
+.nav-footer li p{
+    font-family: Roboto;
+    font-size: 12px;
+    color: #5C5C5C;
+    margin-left: 844px;
+}
+.nav-footer{
+    margin-top: 110px;
+    justify-content: center;
+}
